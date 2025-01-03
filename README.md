@@ -11,6 +11,6 @@ git submodule add https://github.com/win8linux/WatchyGSR_Addon_TypoStyle.git "Wa
 ```
 2. Add the following include to `src/GSR.ino` in Watchy GSR:
 ```cpp
-#include "../Watchface Addons/TypoStyle/TypoStyle.h"
+#include "../Watchface Addons/TypoStyle/GSRWatchFaceTypoStyle.h"
 ```
 3. Compile!
